@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.flex_item{
+    background-color: aqua;
+    max-width: 350px;
+    min-width: 350px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+    border: 2px orangered solid;
+    border-radius: 5px;
+}
+.unique_id{
+    color: crimson;
+    font-size: 25px;
+}
+.subject{
+    color:darkred;
+    font-family: "bree-serif";
+    font-size: 15px;
+}
+.views{
+    color: crimson;
+    font-size: 25px;
+
+}
+.body{
+    font-family: "Roboto";
+    font-size: 18px;
+}
